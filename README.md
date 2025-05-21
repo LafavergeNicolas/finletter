@@ -1,8 +1,5 @@
 [![Build Status](https://github.com/LafavergeNicolas/finletter/actions/workflows/build.yml/badge.svg)](https://github.com/LafavergeNicolas/finletter/actions/workflows/build.yml)
-
-[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-highlight.svg)](https://sonarcloud.io/summary/new_code?id=LafavergeNicolas_finletter)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LafavergeNicolas_finletter&metric=alert_status&token=bab1c291dbdc6a5797fe52098f9d17c60e0397f1)](https://sonarcloud.io/summary/new_code?id=LafavergeNicolas_finletter)
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=LafavergeNicolas_finletter&token=bab1c291dbdc6a5797fe52098f9d17c60e0397f1)](https://sonarcloud.io/summary/new_code?id=LafavergeNicolas_finletter)
 
 
 # STUPDATE: Stock Market Newsletter
