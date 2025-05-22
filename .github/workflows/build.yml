@@ -28,7 +28,7 @@ jobs:
           coverage run -a -m unittest discover -s tests/integration -p "test_*.py"
         env:
           ALPHA_VANTAGE_API_KEY: IT7IZA3P82EG5G5M
-          VERIFY_SSL: false
+          VERIFY_SSL: true
       - name: Generate coverage report
         run: |
           coverage xml -o coverage.xml
