@@ -2,3 +2,4 @@ requests
 langchain
 sendgrid
 python-dotenv
+coverage
